@@ -1,5 +1,5 @@
 # matplotlib-challenge
-<br>
+
 - In this analysis, the following was observed for mice used in a drugs vs tumor size study
     - for the mice used in this study, the following was noted:
         - ID assigned to the mouse 
@@ -14,6 +14,7 @@
         - metastic sites
 - The mouse details and the results were combined into one Data Frame by merging the mouse details data with the results based on the Mouse ID, then duplicated mouse data was dropped in order to clean the data
 <br>
+
 ### Summary Statistics
 
 - The following was calculated for all the drug regimens used in the study:
