@@ -13,7 +13,6 @@
         - tumor volume
         - metastic sites
 - The mouse details and the results were combined into one Data Frame by merging the mouse details data with the results based on the Mouse ID, then duplicated mouse data was dropped in order to clean the data
-<br>
 
 ### Summary Statistics
 
