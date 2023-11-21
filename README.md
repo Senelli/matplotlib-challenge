@@ -50,4 +50,10 @@
 ### Correlation and Regression
 - Calculated the correlation coefficient for on the scatter plot average observed tumor volume vs mouse weight for the entire Capomulin regimen
 - Performed a linear regression and displayed the regression line on the scatter plot average observed tumor volume vs mouse weight for the entire Capomulin regimen
-<br><br>
+
+## Collaborations
+- Collaborated with the following people on this challenge:
+    - Jasleen Kaur (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Vanessa Delgado (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Dianna Stafford (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
+    - Harsimran Kaur (Private Tutor)
