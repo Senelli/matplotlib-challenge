@@ -56,4 +56,3 @@
     - Jasleen Kaur (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
     - Vanessa Delgado (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
     - Dianna Stafford (UC Berkeley Data Science Bootcamp 10-11-2023 Cohort)
-    - Harsimran Kaur (Private Tutor)
